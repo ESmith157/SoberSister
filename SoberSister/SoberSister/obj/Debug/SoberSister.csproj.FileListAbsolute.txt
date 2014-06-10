@@ -1,0 +1,6 @@
+c:\Dev\SoberSister\SoberSister\SoberSister\bin\SoberSister.dll
+c:\Dev\SoberSister\SoberSister\SoberSister\bin\SoberSister.pdb
+c:\Dev\SoberSister\SoberSister\SoberSister\obj\Debug\SoberSister.csprojResolveAssemblyReference.cache
+c:\Dev\SoberSister\SoberSister\SoberSister\obj\Debug\SoberSister.dll
+c:\Dev\SoberSister\SoberSister\SoberSister\obj\Debug\SoberSister.pdb
+C:\Dev\SoberSister\SoberSister\SoberSister\bin\SoberSister.dll.config
